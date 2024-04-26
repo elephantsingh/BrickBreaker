@@ -19,9 +19,4 @@ Please fork this repository and contribute back. Any contributions, large or sma
 
 ## Authors
 
-- [@AniketJain](https://github.com/dev-aniketj/)
-
-## Buy me a Coffee
-
-- [Aniket Jain](https://www.buymeacoffee.com/aniketjain/)
-
+Harsimran Singh 
